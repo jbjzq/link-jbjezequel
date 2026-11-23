@@ -10,7 +10,7 @@ def icon(name):
 
 # (label, sublabel, url, icon html, brand color)
 LISTEN = [
-    ("Podcast", "From RSA to a million · 360 insights", "https://www.youtube.com/watch?v=Qgn5sL2GQFo&t=8s", icon("podcast"), "#7C3AED"),
+    ("Podcast", "Du RSA au million · Podcast 360 insights", "https://www.youtube.com/watch?v=Qgn5sL2GQFo&t=8s", icon("podcast"), "#7C3AED"),
     ("Music", "Convertibles on Spotify", "https://open.spotify.com/artist/4otpkJhh8d5GQQzPz8zQYJ", icon("spotify"), "#1DB954"),
 ]
 SOCIAL = [
