@@ -14,7 +14,7 @@ LISTEN = [
     ("Music", "Convertibles on Spotify", "https://open.spotify.com/artist/4otpkJhh8d5GQQzPz8zQYJ", icon("spotify"), "#1DB954"),
 ]
 SOCIAL = [
-    ("YouTube", "@JBEvaboot · 7.1K subscribers", "https://www.youtube.com/@JBEvaboot", icon("youtube"), "#FF0000"),
+    ("YouTube", "@JBEvaboot · 7.1K subscribers", "https://www.youtube.com/@JBEvaboot?sub_confirmation=1", icon("youtube"), "#FF0000"),
     ("X", "@jb_jezequel", "https://x.com/jb_jezequel", icon("x"), "var(--ink)"),
     ("LinkedIn", "JB Jézéquel", "https://www.linkedin.com/in/jb-fullvision/", icon("linkedin"), "#0A66C2"),
     ("Instagram", "@jbjezequel", "https://www.instagram.com/jbjezequel/", icon("instagram"), "#E4405F"),
